@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EtheriumGremlin
+- 👋 Hi, I’m @DefiSpaceCadet
 - 👀 I’m interested in ... creating trading algorithms that take fundementals into account as well as technicals  
 - 🌱 I’m currently learning ... how to code with Python 
 - 💞️ I’m looking to collaborate on ... Blockchain based projects
